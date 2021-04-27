@@ -9,8 +9,8 @@ A Complete Resource Book for Interview Preparation - Information Technology
 
 **Course Recommendations**
 - [**Coding Blocks**](https://online.codingblocks.com/courses/c-plus-plus-online-course-for-beginners)
-- [**Coding Nijas**](https://www.codingninjas.com/courses/onlline-c-plus-plus-course)
-- [**AlgoExpert**](https://www.algoexpert.io/product)
+- [**Coding Ninjas**](https://www.codingninjas.com/courses/onlline-c-plus-plus-course)
+- [**Algo Expert**](https://www.algoexpert.io/product)
 - [**Apna College - Aman Dhattarwal C++ Course**](https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) ( If money is an issue )
 
 
