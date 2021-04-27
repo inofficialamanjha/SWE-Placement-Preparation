@@ -60,4 +60,4 @@ All questions can be found on [**Leetcode**](https://leetcode.com/). The directo
 [**Skillzera**](http://skillzera.tech/) by [**Xero Technologies**](https://xeroed.tech/) is a Community that provides upcoming professionals with access to education infrastructure and career opportunities that enrich lives and builds professional success.
 
 - [**WhatsApp Community Link**](https://chat.whatsapp.com/CtmDIXlSGzV0BCeUV7uk38)
-- [**YouTube Channel**[(https://www.youtube.com/channel/UCIPBWRR0iBO7JAl96eJPRpQ)
+- [**YouTube Channel**}(https://www.youtube.com/channel/UCIPBWRR0iBO7JAl96eJPRpQ)
