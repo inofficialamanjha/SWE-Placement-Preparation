@@ -4,7 +4,7 @@ A Complete Resource Book for Interview Preparation - Information Technology
 # DATA STRUCTURES ALGORITHM LEARNING
 
 - Step I : Read Let us C
-- Step II : Fuly follow and complete one of the above C++ Course
+- Step II : Fully follow and complete ( With Assignments ) one of the above C++ Course
 - Step III : Complete Left-Over topics from GeeksForGeeks and Youtube, Refer the **Programming Syllabus**.
 
 **Course Recommendations**
