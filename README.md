@@ -5,7 +5,7 @@ A Complete Resource Book for Interview Preparation - Information Technology
 
 - Step I : Read Let us C
 - Step II : Fully follow and complete ( With Assignments ) one of the above C++ Course
-- Step III : Complete Left-Over topics from GeeksForGeeks and Youtube, Refer the **Programming Syllabus**.
+- Step III : Complete Left-Over topics from GeeksForGeeks and Youtube, Refer the [**Programming Syllabus**](https://github.com/inofficialamanjha/Interview-Preparation/blob/main/DS-Algo%20Learning/Syllabus%20for%20Programming.pdf).
 
 **Course Recommendations**
 - [**Coding Blocks**](https://online.codingblocks.com/courses/c-plus-plus-online-course-for-beginners)
