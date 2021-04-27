@@ -3,7 +3,7 @@ A Complete Resource Book for Interview Preparation - Information Technology
 
 # DATA STRUCTURES ALGORITHM LEARNING
 
-- Step I : Read Let us C
+- Step I : Read [**Let us C - Yashavant Kanetkar**](https://github.com/inofficialamanjha/Interview-Preparation/blob/main/DS-Algo%20Learning/Let%20Us%20C.pdf)
 - Step II : Fully follow and complete ( With Assignments ) one of the above C++ Course
 - Step III : Complete Left-Over topics from GeeksForGeeks and Youtube, Refer the [**Programming Syllabus**](https://github.com/inofficialamanjha/Interview-Preparation/blob/main/DS-Algo%20Learning/Syllabus%20for%20Programming.pdf).
 
@@ -16,20 +16,20 @@ A Complete Resource Book for Interview Preparation - Information Technology
 
 # DATA STRUCTURE ALGOTIHM PRACTICE
 
-- Step I : Solve [**Love Babbars's**](https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw) 450 Cracker Sheet ( 450 Questions Set )
-- Step II : Striver's **150 Cracker Sheet** ( Can Skips Step I if there is shortage of Time )
-- Step III : Striver's **Competetive Programming List**
+- Step I : Solve [**Love Babbars's**](https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw) [**450 Cracker Sheet**](https://github.com/inofficialamanjha/Interview-Preparation/blob/main/DS-Algo%20Practice/450%20Cracker%20Sheet.xlsx) ( 450 Questions Set )
+- Step II : Striver's [**150 Cracker Sheet**](https://github.com/inofficialamanjha/Interview-Preparation/blob/main/DS-Algo%20Practice/150%20Cracker%20Sheet.pdf) ( Can Skips Step I if there is shortage of Time )
+- Step III : Striver's [**Competetive Programming List**](https://github.com/inofficialamanjha/Interview-Preparation/blob/main/DS-Algo%20Practice/Striver's%20CP%20List.pdf)
 
 
 # COMPANY WISE PRACTICE
 
-All questions can be found on [**Leetcode**](https://leetcode.com/). The directory contains the name of questions according to the company.
+All questions can be found on [**Leetcode**](https://leetcode.com/). The [**directory**](https://github.com/inofficialamanjha/Interview-Preparation/tree/main/Company%20Wise%20Practice) contains the name of questions according to the company.
 
 
 # OTHER SUBJECTS FOCUS
 
 **Object Oriented Programming ( OOPs )** : 
-- OOP's C++ by Balaguruswami
+- [**OOP's C++ by Balaguruswami**](https://github.com/inofficialamanjha/Interview-Preparation/blob/main/Other%20Subjects/OOPs%20C%2B%2B%20Balaguruswami.pdf)
 - [**Freecodecamp's OOPs Class](https://www.youtube.com/watch?v=wN0x9eZLix4)
 
 **Operating Systems (OS)** : [**Gate Smasher's Operating System Playlist**](https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
@@ -38,7 +38,7 @@ All questions can be found on [**Leetcode**](https://leetcode.com/). The directo
 
 **Database Management Systems (DBMS)**  : [**Gate Smasher's DBMS Playlist**](https://youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
 
-**SQL** : [**Intervie Bit**](https://www.interviewbit.com/sql-interview-questions/) SQL Sheet
+**SQL** : [**Intervie Bit**](https://www.interviewbit.com/sql-interview-questions/) [**SQL Sheet**](https://github.com/inofficialamanjha/Interview-Preparation/blob/main/Other%20Subjects/SQL%20Cheat%20Sheet.pdf)
 
 **Computer Organization & Architecture (COA)** : [**Gate Smasher's COA Playlist**](https://youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX)
 
