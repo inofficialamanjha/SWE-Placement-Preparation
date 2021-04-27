@@ -38,7 +38,7 @@ All questions can be found on [**Leetcode**](https://leetcode.com/). The [**dire
 
 **Database Management Systems (DBMS)**  : [**Gate Smasher's DBMS Playlist**](https://youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
 
-**SQL** : [**Intervie Bit**](https://www.interviewbit.com/sql-interview-questions/) [**SQL Sheet**](https://github.com/inofficialamanjha/Interview-Preparation/blob/main/Other%20Subjects/SQL%20Cheat%20Sheet.pdf)
+**SQL** : [**Interview Bit**](https://www.interviewbit.com/sql-interview-questions/) [**SQL Sheet**](https://github.com/inofficialamanjha/Interview-Preparation/blob/main/Other%20Subjects/SQL%20Cheat%20Sheet.pdf)
 
 **Computer Organization & Architecture (COA)** : [**Gate Smasher's COA Playlist**](https://youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX)
 
