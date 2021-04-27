@@ -47,10 +47,17 @@ All questions can be found on [**Leetcode**](https://leetcode.com/). The directo
 
 # OTHER IMPORTANT TIPS
 
+- [**How to Crack Google Summer of Code ( GSoC )**](https://youtu.be/FLqwaB2VeG8)
+- [**How to Score a 10 CGPA**](https://youtu.be/6S56dYeMWZE)
+- [**Crack Software Developer Placement for Non-Coding Branch**](https://youtu.be/6S56dYeMWZE)
+- [**On-Campus Vs. Off-Campus Placement Detailed Overview**](https://youtu.be/Ic59WTZtp_Q)
+- [**International Placement ( Amazon Berlin )**](https://youtu.be/ofDdyaOyzC4)
+- [**Make your Resume / CV**](https://youtu.be/YzE7uPfQ4yo)
+- [**Non-Tech Opportunites**](https://youtu.be/vsyUxqhoo14)
+
 ## JOIN SKILLZERA
 
+[**Skillzera**](http://skillzera.tech/) by [**Xero Technologies**](https://xeroed.tech/) is a Community that provides upcoming professionals with access to education infrastructure and career opportunities that enrich lives and builds professional success.
 
-
-
-
-
+- [**WhatsApp Community Link**](https://chat.whatsapp.com/CtmDIXlSGzV0BCeUV7uk38)
+- [**YouTube Channel**[(https://www.youtube.com/channel/UCIPBWRR0iBO7JAl96eJPRpQ)
