@@ -30,7 +30,7 @@ All questions can be found on [**Leetcode**](https://leetcode.com/). The [**dire
 
 **Object Oriented Programming ( OOPs )** : 
 - [**OOP's C++ by Balaguruswami**](https://github.com/inofficialamanjha/Interview-Preparation/blob/main/Other%20Subjects/OOPs%20C%2B%2B%20Balaguruswami.pdf)
-- [**Freecodecamp's OOPs Class](https://www.youtube.com/watch?v=wN0x9eZLix4)
+- [**Freecodecamp's OOPs Class**](https://www.youtube.com/watch?v=wN0x9eZLix4)
 
 **Operating Systems (OS)** : [**Gate Smasher's Operating System Playlist**](https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
 
