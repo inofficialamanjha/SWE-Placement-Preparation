@@ -1,4 +1,4 @@
-# Interview-Preparation
+# PLACEMENT PREPARATION
 A Complete Resource Book for Interview Preparation.
 
 # DATA STRUCTURES ALGORITHM LEARNING
